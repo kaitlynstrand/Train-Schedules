@@ -1,0 +1,19 @@
+body {
+	font-family: 'Playfair Display', serif;
+}
+
+.jumbotron {
+	text-align: center;
+	background-color: #59BDE8
+
+}
+
+.panel-heading {
+	background-color: #90D7E8
+	margin: 5px;
+}
+
+#search-panel {
+		background-color: #59BDE8
+		margin: 5px;
+}
